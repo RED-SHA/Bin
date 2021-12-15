@@ -1,0 +1,4 @@
+This file is useing Nano code
+it was use like nano test.txt
+end!
+
